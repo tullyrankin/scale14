@@ -31,7 +31,7 @@ History 3
 - 2003: SAP partnership (hello MaxDB)
 - 2003: Acquires Alzato (NDBCLUSTER)
 
-sHistory 4
+History 4
 
 - October 2004: 4.1 GA (with NDBCLUSTER)
 - 2005:5.0 tree is the focus, but it has issues

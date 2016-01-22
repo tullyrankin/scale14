@@ -28,7 +28,7 @@ Avoided Sharding
 - Enterprise with 200K+ employees Internal Drupal Installation
 - E-commerce merchant with $10M+ sales per month
 
-Shareding = Pain
+Sharding = Pain
 
 - It is painful! Though you may have gotten used to it.
 
