@@ -179,11 +179,3 @@ describe 'workstation::default' do
 
 end
 ```
-
-
-
-
-
-
-
-
