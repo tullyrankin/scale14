@@ -1,8 +1,8 @@
 # To Shard or Not to Shard
 
-Peter Zaitsev
-Audience: Beginner
-Topic: MySQL
+**Presenter:** Peter Zaitsev<br />
+**Audience:** Beginner<br />
+**Topic:** MySQL
 
 MySQL Sharding is one of the most used and surely the most abused MySQL scaling technology. 
 In this presentation we'll look into the world of Sharding and answer the questions 
@@ -11,7 +11,5 @@ In this presentation we'll look into the world of Sharding and answer the questi
 - If you're sharding what things you need to consider and which questions do you need to have answered.
 - What kind of specific technologies can assist you with sharding 
 
-**Room:**
-Room 101
-**Time:**
-Friday, January 22, 2016 - 11:00 to 12:00
+**Room:** Room 101<br />
+**Time:** Friday, January 22, 2016 - 11:00 to 12:00
