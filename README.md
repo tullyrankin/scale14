@@ -21,4 +21,8 @@
 - [FluentD - The Open Source Data Collection Tool](fluentd-the-open-source-data-collection-tool)
 
 ### Sunday
-TODO
+
+- [The 7 Rules for Creating World Class Techniocal Documentation, v.2016](the-7-rules-for-creating-world-class-technical-documentation)
+- [Using Swagger to tame HTTP/JSON interfaces](using-swagger-to-tame-http-json-interfaces)
+- [Rust: Systems Programming for Web Developers](rust-systems-programming-for-web-developers)
+- [Terrible Ideas in Git](terrible-ideas-in-git)
